@@ -1,0 +1,10 @@
+{
+  "name": "M.D Naik Consultancy",
+  "description": "Empowering Careers, Education, Business Growth, Investments & Opportunities - M. Diwakar Naik, B.Tech. Youth Leader & Founder.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

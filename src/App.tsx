@@ -1189,7 +1189,7 @@ export default function App() {
               {adminError && <div className="text-red-300 text-xxs font-bold mt-1.5">{adminError}</div>}
               {!isAdminAuthenticated && (
                 <div className="text-teal-300 text-xxs mt-1.5 font-semibold">
-                  *Demonstration Passcode key is: <strong className="text-amber-300 bg-teal-900/80 px-2 py-0.5 rounded">naik2026</strong>
+                  *Demonstration Passcode key is: <strong className="text-amber-300 bg-teal-900/80 px-2 py-0.5 rounded">2026</strong>
                 </div>
               )}
             </div>

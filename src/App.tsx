@@ -1764,6 +1764,9 @@ export default function App() {
                     <span>System Administration Authorization &rarr;</span>
                   </button>
                 </div>
+                <div>
+                  <span className="block text-xxxs text-stone-100 uppercase font-black">Designed by:IndrasenaReddy</span>
+                </div>
               </div>
             </div>
 
